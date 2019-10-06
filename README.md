@@ -1,6 +1,6 @@
 # GWAS on Lactose intolerance
 
-# 1. Introduction
+## 1. Introduction
 
 People with this condition lack the active enzyme lactase which is needed to be able to break down lactose which can be found in milk and most other dairy products. In evolutionary times most people only had an active lactase during infancy. The production of this enzyme then stopped during weaning.
 
@@ -10,7 +10,7 @@ There are some SNPs known to associate with Lactose Intolerance (http://www.snpe
 
 This project is to investigate GWAS on Lactose intolerance to see if we can find more. 
 
-# 2. Data preprocessing
+## 2. Data preprocessing
 
 The data is from opensnp (https://opensnp.org). There are 635 users sharing their genotype and lactose intolerance. We only use the 23andme genotype data. After 
 
